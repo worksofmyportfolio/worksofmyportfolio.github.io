@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'KayakSansRegular';
+    src: url('fonts/KayakSansRegular.eot');
+    src: url('fonts/KayakSansRegular.eot') format('embedded-opentype'),
+         url('fonts/KayakSansRegular.woff2') format('woff2'),
+         url('fonts/KayakSansRegular.woff') format('woff'),
+         url('fonts/KayakSansRegular.ttf') format('truetype'),
+         url('fonts/KayakSansRegular.svg#KayakSansRegular') format('svg');
+}

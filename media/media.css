@@ -1,0 +1,235 @@
+
+
+
+@media screen and (max-width: 1074px){
+	.sec2_content{
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.right_content{
+		margin-top: 50px;
+	}
+
+	.sec2{
+		min-height: 550px;
+	}
+
+	.sec2::after{
+		height: 120vh;
+	}
+
+	.sec2::before{
+		height: 120vh;
+	}
+
+	.right_content{
+		position: relative;
+		z-index: 1;
+	}
+}
+
+@media screen and (max-width: 998px){
+	.soc_networks {
+    margin-top: 70px;
+}
+
+
+	footer{
+		height: 1000px;
+		justify-content: center;
+		align-items: center;
+	}
+
+    .footer_content{
+    	flex-direction: column;
+    	width: 280px;
+    	margin: 0 auto;
+    }
+
+    .col:last-child{
+    	margin-top: 50px;
+    }
+
+	.sec6_content{
+		flex-direction: column;
+		padding-bottom: 100px;
+	}
+
+	.sec6_right {
+		padding-left: 0;
+		margin-top: 50px;
+	}
+
+	.indent2{
+		height: 9em;
+	}
+
+	.sec6{
+		min-height: 790px;
+	}
+
+	.sec6_left{
+		padding-right: 0;
+		border: none;
+	}
+ 
+
+	.sec4_phone{
+		margin: 0 auto;
+	}
+}
+
+@media screen and (max-width: 937px){
+	.appStore {
+		margin-left: 0;
+		margin-top: 0;
+	}
+	.sec5{
+		min-height: 868px;
+	}
+
+	.sec5::before{
+		height: 145vh;
+	}
+}
+
+@media screen and (max-width: 870px){
+	.sec5_content{
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.appStore {
+		
+		margin-top: 0px;
+	}
+
+	.sec5_doopler{
+		display: none;
+	}
+
+	.indent{
+		height: 10em;
+	}
+}
+
+@media screen and (max-width: 840px){
+	.fruits{
+		height: 20em;
+	}
+
+	.dish{
+		margin-top: -40px;
+	}
+
+}
+
+@media screen and (max-width: 767px){
+	.sec4{
+	 
+	min-height: 450px;
+	 
+}
+
+.sec4::after{
+	 height: 100%;
+}
+
+.sec4::before{
+	 height: 100%;
+}
+
+.dumplings{
+	bottom: 0;
+	margin-left: 10em;
+}
+
+.cake{
+	margin-left: 0;
+}
+
+}
+
+@media screen and (max-width: 519px){
+		.sec2{
+		min-height: 450px;
+	}
+
+	.sec2::after{
+		height: 100%;
+	}
+
+	.sec2::before{
+		height: 100%;
+	}
+
+}
+
+@media screen and (max-width: 492px){
+	.appStore{
+		margin-top: 20px;
+	}
+
+	.download{
+		flex-direction: column;
+		margin: 60px auto;
+		align-items: center;
+	}
+
+	.googlePlay {
+		margin-right: 0;
+	}
+
+    .sec5::before{
+		height: 100%;
+	}
+
+	.sec5{
+		min-height: 790px;
+	}
+
+	.uberEats{
+		flex-direction: column;
+	}
+
+	.indent {
+    height: 12em;
+    }
+
+
+
+}
+
+
+@media screen and (max-width: 442px){
+			.sec2{
+		min-height: 450px;
+	}
+
+	.sec2::after{
+		height: 180vh;
+	}
+
+	.sec2::before{
+		height: 180vh;
+	}
+
+}
+
+@media screen and (max-width: 980px){
+	.sec1_content{
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.form_sec1{
+		margin-top: 100px;
+		margin-left: 0;
+	}
+
+	.sec1 {
+    padding-bottom: 16em;
+}
+}
